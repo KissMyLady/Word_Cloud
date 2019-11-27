@@ -14,8 +14,8 @@ Word_Cloud
 * 3、声明  
     * 自己写的小工具，希望能帮助到各位  
     * 可以用OOP更进一步升级代码，欢迎前来讨论, QQ(群:36877 9008)
-    * 可进一步优化升级方案， 例如，在视频截图时，计算型操作更频繁， 在图片合并时，IO操作更频繁，  
-       可针对这个特性进行优化升级
+    * 如有错误、或是需要加强之处，欢迎各位大佬在GitHun向我指出，非常感谢  
+    * - [问题提出请点这里](https://github.com/KissMyLady/Word_Cloud/issues)
 -
 ## 生成词云效果图一览
 ![1](https://github.com/KissMyLady/Word_Cloud/blob/master/Img/word_cloud_erth.png)  
