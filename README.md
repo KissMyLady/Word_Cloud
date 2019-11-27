@@ -88,4 +88,4 @@ if __name__ == '__main__':
     main(OPEN_TXT_PATN, STOP_word_PATH, LOAD_MODLOE_PATH, SAVE_PATH)
 ```
 ## 如有错误、或是需要加强之处，欢迎各位大佬在GitHun向我指出，非常感谢  
-- [问题提出点这里](https://github.com/KissMyLady/Word_Cloud/issues)
+- [问题提出请点这里](https://github.com/KissMyLady/Word_Cloud/issues)
