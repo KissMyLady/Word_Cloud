@@ -4,7 +4,7 @@ Word_Cloud
 * 1、功能  
     * 一、将txt文本转词云  
     * 二、可以指定图形模板，生成想要的特定形状词云   
-    * 三、速度快
+    * 三、模板可以换成自己喜欢的样子
 
 * 2、使用方法  
     * 一、复制粘贴，在IDE里仔细阅读源代码(很简单), 注释有详细说明  
@@ -18,11 +18,13 @@ Word_Cloud
        可针对这个特性进行优化升级
 -
 ## 生成词云效果图一览
+![1](https://github.com/KissMyLady/Word_Cloud/blob/master/Img/word_cloud_erth.png)  
 
 ### 停用词文本  
+- [停用词文本]()  
 
 ### 图形模板
-
+![3](https://github.com/KissMyLady/Word_Cloud/blob/master/Img/ing_none_word.png)  
 
 
 ## 代码  
