@@ -15,8 +15,8 @@ Word_Cloud
     * 自己写的小工具，希望能帮助到各位  
     * 可以用OOP更进一步升级代码，欢迎前来讨论, QQ(群:36877 9008)
     * 如有错误、或是需要加强之处，欢迎各位大佬在GitHun向我指出，非常感谢  
-    * - [问题提出请点这里](https://github.com/KissMyLady/Word_Cloud/issues)
--
+    * [问题提出请点这里](https://github.com/KissMyLady/Word_Cloud/issues)
+
 ## 生成词云效果图一览
 ![1](https://github.com/KissMyLady/Word_Cloud/blob/master/Img/word_cloud_erth.png)  
 
