@@ -21,7 +21,7 @@ Word_Cloud
 ![1](https://github.com/KissMyLady/Word_Cloud/blob/master/Img/word_cloud_erth.png)  
 
 ### 停用词文本  
-- [停用词文本]()  
+- [停用词文本](https://github.com/KissMyLady/Word_Cloud/blob/master/Note/stop_word.txt)  
 
 ### 图形模板
 ![3](https://github.com/KissMyLady/Word_Cloud/blob/master/Img/ing_none_word.png)  
